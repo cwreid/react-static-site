@@ -1,0 +1,7 @@
+h1.ui.header.jumbotron {
+  font-size: 3em;
+}
+
+.faded {
+  color: rgba(0, 0, 0, 0.5);
+}
